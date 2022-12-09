@@ -31,6 +31,7 @@ For the first alternative model I decided to:
 <br>
 <img width="635" alt="image" src="https://user-images.githubusercontent.com/111472420/206605255-acc7d144-d1d1-4219-894f-ef3d7a5013e4.png"> </br>
 The results were practically the same, even a bit worse. Therefore it became obvious that it's not necessary to add the third hidden layer and/or increase number of epochs. </br>
+
 ### Alternative model №2
 For the second model I decided to:
 - change the activation function to <i>tanh</i>
